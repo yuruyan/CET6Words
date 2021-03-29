@@ -1,4 +1,4 @@
 .idea
 .vscode
 dist
-/src/test.json
+/src/*.json

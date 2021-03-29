@@ -1,6 +1,6 @@
 import random
 
-wordlist = []
+wordlist = [] # 单词列表
 existed = []  # 抽取过的单词
 with open('./../src/words.txt', encoding='utf-8') as f:
     wordlist = list(f.read().strip().split('\n'))
