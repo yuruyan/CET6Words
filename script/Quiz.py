@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 import random
 
 wordlist = [] # 单词列表
