@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 import requests
 from hashlib import md5
 import urllib.parse as parse
